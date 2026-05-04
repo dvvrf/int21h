@@ -116,5 +116,7 @@
     <loc>https://dwrf.ftp.sh/categories/</loc>
   </url><url>
     <loc>https://dwrf.ftp.sh/tags/</loc>
+  </url><url>
+    <loc>https://dwrf.ftp.sh/archives/</loc>
   </url>
 </urlset>
